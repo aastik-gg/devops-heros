@@ -1,0 +1,410 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 23:06 ?        00:00:04 /sbin/init splash
+root           2       0  0 23:06 ?        00:00:00 [kthreadd]
+root           3       2  0 23:06 ?        00:00:00 [pool_workqueue_release]
+root           4       2  0 23:06 ?        00:00:00 [kworker/R-rcu_gp]
+root           5       2  0 23:06 ?        00:00:00 [kworker/R-sync_wq]
+root           6       2  0 23:06 ?        00:00:00 [kworker/R-kvfree_rcu_reclaim]
+root           7       2  0 23:06 ?        00:00:00 [kworker/R-slub_flushwq]
+root           8       2  0 23:06 ?        00:00:00 [kworker/R-netns]
+root          10       2  0 23:06 ?        00:00:00 [kworker/0:0H-kblockd]
+root          12       2  0 23:06 ?        00:00:06 [kworker/u48:0-gfx]
+root          13       2  0 23:06 ?        00:00:00 [kworker/R-mm_percpu_wq]
+root          14       2  0 23:06 ?        00:00:00 [ksoftirqd/0]
+root          15       2  0 23:06 ?        00:00:04 [rcu_preempt]
+root          16       2  0 23:06 ?        00:00:00 [rcu_exp_par_gp_kthread_worker/0]
+root          17       2  0 23:06 ?        00:00:00 [rcu_exp_gp_kthread_worker]
+root          18       2  0 23:06 ?        00:00:00 [migration/0]
+root          19       2  0 23:06 ?        00:00:00 [kprobe-optimizer]
+root          20       2  0 23:06 ?        00:00:00 [idle_inject/0]
+root          21       2  0 23:06 ?        00:00:00 [cpuhp/0]
+root          22       2  0 23:06 ?        00:00:00 [cpuhp/2]
+root          23       2  0 23:06 ?        00:00:00 [idle_inject/2]
+root          24       2  0 23:06 ?        00:00:00 [migration/2]
+root          25       2  0 23:06 ?        00:00:00 [ksoftirqd/2]
+root          27       2  0 23:06 ?        00:00:00 [kworker/2:0H-kblockd]
+root          28       2  0 23:06 ?        00:00:00 [cpuhp/4]
+root          29       2  0 23:06 ?        00:00:00 [idle_inject/4]
+root          30       2  0 23:06 ?        00:00:00 [migration/4]
+root          31       2  0 23:06 ?        00:00:00 [ksoftirqd/4]
+root          33       2  0 23:06 ?        00:00:00 [kworker/4:0H-kblockd]
+root          34       2  0 23:06 ?        00:00:00 [cpuhp/6]
+root          35       2  0 23:06 ?        00:00:00 [idle_inject/6]
+root          36       2  0 23:06 ?        00:00:00 [migration/6]
+root          37       2  0 23:06 ?        00:00:00 [ksoftirqd/6]
+root          39       2  0 23:06 ?        00:00:00 [kworker/6:0H-kblockd]
+root          40       2  0 23:06 ?        00:00:00 [cpuhp/8]
+root          41       2  0 23:06 ?        00:00:00 [idle_inject/8]
+root          42       2  0 23:06 ?        00:00:00 [migration/8]
+root          43       2  0 23:06 ?        00:00:00 [ksoftirqd/8]
+root          45       2  0 23:06 ?        00:00:00 [kworker/8:0H-kblockd]
+root          46       2  0 23:06 ?        00:00:00 [cpuhp/10]
+root          47       2  0 23:06 ?        00:00:00 [idle_inject/10]
+root          48       2  0 23:06 ?        00:00:00 [migration/10]
+root          49       2  0 23:06 ?        00:00:00 [ksoftirqd/10]
+root          51       2  0 23:06 ?        00:00:00 [kworker/10:0H-kblockd]
+root          52       2  0 23:06 ?        00:00:00 [cpuhp/1]
+root          53       2  0 23:06 ?        00:00:00 [idle_inject/1]
+root          54       2  0 23:06 ?        00:00:00 [migration/1]
+root          55       2  0 23:06 ?        00:00:00 [ksoftirqd/1]
+root          57       2  0 23:06 ?        00:00:00 [kworker/1:0H-kblockd]
+root          58       2  0 23:06 ?        00:00:00 [cpuhp/3]
+root          59       2  0 23:06 ?        00:00:00 [idle_inject/3]
+root          60       2  0 23:06 ?        00:00:00 [migration/3]
+root          61       2  0 23:06 ?        00:00:00 [ksoftirqd/3]
+root          63       2  0 23:06 ?        00:00:00 [kworker/3:0H-kblockd]
+root          64       2  0 23:06 ?        00:00:00 [cpuhp/5]
+root          65       2  0 23:06 ?        00:00:00 [idle_inject/5]
+root          66       2  0 23:06 ?        00:00:00 [migration/5]
+root          67       2  0 23:06 ?        00:00:00 [ksoftirqd/5]
+root          69       2  0 23:06 ?        00:00:00 [kworker/5:0H-kblockd]
+root          70       2  0 23:06 ?        00:00:00 [cpuhp/7]
+root          71       2  0 23:06 ?        00:00:00 [idle_inject/7]
+root          72       2  0 23:06 ?        00:00:00 [migration/7]
+root          73       2  0 23:06 ?        00:00:00 [ksoftirqd/7]
+root          75       2  0 23:06 ?        00:00:00 [kworker/7:0H-kblockd]
+root          76       2  0 23:06 ?        00:00:00 [cpuhp/9]
+root          77       2  0 23:06 ?        00:00:00 [idle_inject/9]
+root          78       2  0 23:06 ?        00:00:00 [migration/9]
+root          79       2  0 23:06 ?        00:00:00 [ksoftirqd/9]
+root          80       2  0 23:06 ?        00:00:00 [kworker/9:0-mm_percpu_wq]
+root          81       2  0 23:06 ?        00:00:00 [kworker/9:0H-kblockd]
+root          82       2  0 23:06 ?        00:00:00 [cpuhp/11]
+root          83       2  0 23:06 ?        00:00:00 [idle_inject/11]
+root          84       2  0 23:06 ?        00:00:00 [migration/11]
+root          85       2  0 23:06 ?        00:00:00 [ksoftirqd/11]
+root          87       2  0 23:06 ?        00:00:00 [kworker/11:0H-kblockd]
+root          88       2  0 23:06 ?        00:00:00 [kdevtmpfs]
+root          89       2  0 23:06 ?        00:00:00 [kworker/R-inet_frag_wq]
+root          90       2  0 23:06 ?        00:00:00 [rcu_tasks_kthread]
+root          91       2  0 23:06 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          92       2  0 23:06 ?        00:00:00 [kauditd]
+root          93       2  0 23:06 ?        00:00:00 [khungtaskd]
+root          94       2  0 23:06 ?        00:00:00 [oom_reaper]
+root          97       2  0 23:06 ?        00:00:00 [kworker/R-writeback]
+root          98       2  0 23:06 ?        00:00:00 [kcompactd0]
+root          99       2  0 23:06 ?        00:00:00 [ksmd]
+root         100       2  0 23:06 ?        00:00:00 [khugepaged]
+root         101       2  0 23:06 ?        00:00:00 [kworker/R-kblockd]
+root         102       2  0 23:06 ?        00:00:00 [kworker/R-blkcg_punt_bio]
+root         103       2  0 23:06 ?        00:00:00 [kworker/R-kintegrityd]
+root         104       2  1 23:06 ?        00:00:28 [irq/9-acpi]
+root         105       2  0 23:06 ?        00:00:00 [kworker/1:1-mm_percpu_wq]
+root         107       2  0 23:06 ?        00:00:00 [kworker/R-tpm_dev_wq]
+root         108       2  0 23:06 ?        00:00:00 [kworker/R-ata_sff]
+root         109       2  0 23:06 ?        00:00:00 [kworker/R-md_bitmap]
+root         110       2  0 23:06 ?        00:00:00 [kworker/R-md_llbitmap_io]
+root         111       2  0 23:06 ?        00:00:00 [kworker/R-md_llbitmap_unplug]
+root         112       2  0 23:06 ?        00:00:00 [kworker/R-edac-poller]
+root         113       2  0 23:06 ?        00:00:00 [kworker/R-devfreq_wq]
+root         114       2  0 23:06 ?        00:00:00 [watchdogd]
+root         115       2  0 23:06 ?        00:00:00 [kworker/R-quota_events_unbound]
+root         116       2  0 23:06 ?        00:00:00 [kworker/4:1-events]
+root         117       2  0 23:06 ?        00:00:00 [irq/25-AMD-Vi0-Evt]
+root         118       2  0 23:06 ?        00:00:00 [irq/26-AMD-Vi0-PPR]
+root         119       2  0 23:06 ?        00:00:00 [irq/27-AMD-Vi0-GA]
+root         120       2  0 23:06 ?        00:00:00 [kworker/5:1-events]
+root         121       2  0 23:06 ?        00:00:00 [kswapd0]
+root         122       2  0 23:06 ?        00:00:00 [ecryptfs-kthread]
+root         123       2  0 23:06 ?        00:00:00 [kworker/R-kthrotld]
+root         125       2  0 23:06 ?        00:00:00 [kworker/R-acpi_thermal_pm]
+root         127       2  0 23:06 ?        00:00:00 [kworker/6:1-cgroup_free]
+root         128       2  0 23:06 ?        00:00:00 [kworker/R-mld]
+root         130       2  0 23:06 ?        00:00:00 [kworker/R-ipv6_addrconf]
+root         131       2  0 23:06 ?        00:00:00 [kworker/R-kstrp]
+root         132       2  0 23:06 ?        00:00:00 [kworker/2:2-events]
+root         134       2  0 23:06 ?        00:00:00 [kworker/3:1-mm_percpu_wq]
+root         135       2  0 23:06 ?        00:00:00 [kworker/7:1-mm_percpu_wq]
+root         148       2  0 23:06 ?        00:00:00 [kworker/R-charger_manager]
+root         149       2  0 23:06 ?        00:00:00 [kworker/6:2-mm_percpu_wq]
+root         166       2  0 23:06 ?        00:00:00 [kworker/8:1-mm_percpu_wq]
+root         173       2  0 23:06 ?        00:00:00 [kworker/10:1-inode_switch_wbs]
+root         206       2  0 23:06 ?        00:00:00 [kworker/0:2-events]
+root         207       2  0 23:06 ?        00:00:08 [irq/52-ELAN0718:00]
+root         226       2  0 23:06 ?        00:00:00 [kworker/11:2-events]
+root         268       2  0 23:06 ?        00:00:00 [scsi_eh_0]
+root         269       2  0 23:06 ?        00:00:00 [kworker/R-scsi_tmf_0]
+root         270       2  0 23:06 ?        00:00:00 [scsi_eh_1]
+root         271       2  0 23:06 ?        00:00:00 [kworker/R-scsi_tmf_1]
+root         315       2  0 23:06 ?        00:00:00 [kworker/R-nvme-wq]
+root         316       2  0 23:06 ?        00:00:00 [kworker/R-nvme-reset-wq]
+root         317       2  0 23:06 ?        00:00:00 [kworker/R-nvme-delete-wq]
+root         318       2  0 23:06 ?        00:00:00 [kworker/R-nvme-auth-wq]
+root         354       2  0 23:06 ?        00:00:00 [kworker/6:1H-kblockd]
+root         356       2  0 23:06 ?        00:00:00 [jbd2/nvme0n1p5-8]
+root         357       2  0 23:06 ?        00:00:00 [kworker/R-ext4-rsv-conversion]
+root         371       2  0 23:06 ?        00:00:00 [kworker/2:1H-kblockd]
+root         401       2  0 23:06 ?        00:00:00 [kworker/0:1H]
+root         408       1  0 23:06 ?        00:00:01 /usr/lib/systemd/systemd-journald
+root         440       2  0 23:06 ?        00:00:00 [kworker/8:1H-kblockd]
+root         441       2  0 23:06 ?        00:00:00 [kworker/9:1H-kblockd]
+root         443       2  0 23:06 ?        00:00:00 [kworker/4:1H-kblockd]
+root         445       2  0 23:06 ?        00:00:00 [kworker/11:1H-kblockd]
+root         447       2  0 23:06 ?        00:00:00 [kworker/7:2-inode_switch_wbs]
+root         454       2  0 23:06 ?        00:00:00 [kworker/7:1H-kblockd]
+root         456       2  0 23:06 ?        00:00:00 [kworker/10:1H-kblockd]
+root         458       2  0 23:06 ?        00:00:00 [kworker/5:1H-kblockd]
+root         465       2  0 23:06 ?        00:00:00 [kworker/3:1H-kblockd]
+root         472       2  0 23:06 ?        00:00:00 [kworker/1:1H-kblockd]
+root         493       1  0 23:06 ?        00:00:00 /usr/lib/systemd/systemd-udevd
+root         558       2  0 23:06 ?        00:00:00 [psimon]
+root         597       2  0 23:06 ?        00:00:06 [kworker/u48:19-flush-259:0]
+root         618       2  0 23:06 ?        00:00:04 [kworker/u48:29-gfx]
+root         632       2  0 23:06 ?        00:00:07 [kworker/u48:36+events_unbound]
+root         642       2  0 23:06 ?        00:00:00 [kworker/3:2-events]
+root         689       2  0 23:06 ?        00:00:00 [kworker/R-cfg80211]
+root         774       2  0 23:06 ?        00:00:00 [kworker/10:2-events]
+root         849       2  0 23:06 ?        00:00:00 [kworker/4:4-cgroup_free]
+root         926       2  1 23:06 ?        00:00:35 [irq/72-rtw89_pci]
+root         942       2  0 23:06 ?        00:00:00 [kworker/5:2-events]
+systemd+     968       1  0 23:06 ?        00:00:01 /usr/lib/systemd/systemd-oomd
+systemd+     973       1  0 23:06 ?        00:00:00 /usr/lib/systemd/systemd-resolved
+systemd+     975       1  0 23:06 ?        00:00:00 /usr/lib/systemd/systemd-timesyncd
+avahi       1121       1 11 23:06 ?        00:03:55 avahi-daemon: running [aastik-HP-Pavilion-Gaming-Laptop-15-ec2xxx.local]
+root        1122       1  0 23:06 ?        00:00:00 /usr/libexec/bluetooth/bluetoothd
+message+    1123       1  0 23:06 ?        00:00:01 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gnome-r+    1126       1  0 23:06 ?        00:00:00 /usr/libexec/gnome-remote-desktop-daemon --system
+root        1129       1  0 23:06 ?        00:00:14 /usr/libexec/iio-sensor-proxy
+polkitd     1135       1  0 23:06 ?        00:00:00 /usr/lib/polkit-1/polkitd --no-debug
+root        1138       1  0 23:06 ?        00:00:00 /usr/libexec/power-profiles-daemon
+root        1147       1  0 23:06 ?        00:00:00 /usr/sbin/smartd -n
+root        1150       1  1 23:06 ?        00:00:21 /usr/lib/snapd/snapd
+root        1151       1  0 23:06 ?        00:00:00 /usr/libexec/accounts-daemon
+root        1152       1  0 23:06 ?        00:00:00 /usr/sbin/cron -f -P
+root        1153       1  0 23:06 ?        00:00:00 /usr/libexec/switcheroo-control
+root        1155       1  0 23:06 ?        00:00:00 /usr/lib/systemd/systemd-logind
+root        1157       1  0 23:06 ?        00:00:04 /usr/bin/touchegg --daemon
+root        1158       1  0 23:06 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root        1159       1  0 23:06 ?        00:00:07 /bin/warp-svc
+avahi       1174    1121  0 23:06 ?        00:00:00 avahi-daemon: chroot helper
+root        1180       1  0 23:06 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root        1184       1  0 23:06 ?        00:00:00 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+syslog      1202       1  0 23:06 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root        1319       1  0 23:06 ?        00:00:00 /usr/sbin/ModemManager
+root        1463       1  0 23:06 ?        00:00:00 /usr/sbin/cupsd -l
+root        1470       1  0 23:06 ?        00:00:00 /bin/sh /snap/cups/1238/scripts/run-cups-browsed
+root        1471       1  0 23:06 ?        00:00:00 /bin/sh /snap/cups/1238/scripts/run-cupsd
+root        1474       1  0 23:06 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+colord      1520       1  0 23:06 ?        00:00:00 /usr/libexec/colord
+root        1533       1  0 23:06 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data    1540    1533  0 23:06 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data    1541    1533  0 23:06 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data    1542    1533  0 23:06 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data    1543    1533  0 23:06 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data    1544    1533  0 23:06 ?        00:00:00 /usr/sbin/apache2 -k start
+mysql       1548       1  0 23:06 ?        00:00:18 /usr/sbin/mysqld
+lp          1565    1463  0 23:06 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root        1583       1  0 23:06 ?        00:00:03 /usr/bin/containerd
+root        1656       2  0 23:06 ?        00:00:00 [kworker/R-amdgpu-reset-dev]
+root        1666       2  0 23:06 ?        00:00:00 [kworker/R-ttm]
+root        1701       2  0 23:06 ?        00:00:00 [kworker/R-amdgpu_dm_hpd_rx_offload_wq]
+root        1702       2  0 23:06 ?        00:00:00 [kworker/R-dm_vblank_control_workqueue]
+root        1732       2  0 23:06 ?        00:00:00 [card1-crtc0]
+root        1733       2  0 23:06 ?        00:00:00 [card1-crtc1]
+root        1734       2  0 23:06 ?        00:00:00 [card1-crtc2]
+root        1735       2  0 23:06 ?        00:00:00 [card1-crtc3]
+root        1736       2  0 23:06 ?        00:00:00 [kworker/R-gfx]
+root        1737       2  0 23:06 ?        00:00:00 [kworker/R-comp_1.0.0]
+root        1738       2  0 23:06 ?        00:00:00 [kworker/R-comp_1.1.0]
+root        1739       2  0 23:06 ?        00:00:00 [kworker/R-comp_1.2.0]
+root        1740       2  0 23:06 ?        00:00:00 [kworker/R-comp_1.3.0]
+root        1741       2  0 23:06 ?        00:00:00 [kworker/R-comp_1.0.1]
+root        1742       2  0 23:06 ?        00:00:00 [kworker/R-comp_1.1.1]
+root        1743       2  0 23:06 ?        00:00:00 [kworker/R-comp_1.2.1]
+root        1744       2  0 23:06 ?        00:00:00 [kworker/R-comp_1.3.1]
+root        1745       2  0 23:06 ?        00:00:00 [kworker/R-sdma0]
+root        1746       2  0 23:06 ?        00:00:00 [kworker/R-vcn_dec]
+root        1747       2  0 23:06 ?        00:00:00 [kworker/R-vcn_enc0]
+root        1748       2  0 23:06 ?        00:00:00 [kworker/R-vcn_enc1]
+root        1749       2  0 23:06 ?        00:00:00 [kworker/R-jpeg_dec]
+root        2018    1471  0 23:06 ?        00:00:00 cupsd -f -s /var/snap/cups/common/etc/cups/cups-files.conf -c /var/snap/cups/common/etc/cups/cupsd.conf
+root        2019    1471  0 23:06 ?        00:00:00 cups-proxyd /var/snap/cups/common/run/cups.sock /run/cups/cups.sock -l --logdir /var/snap/cups/1238/var/log
+root        2022    1470  0 23:06 ?        00:00:00 /bin/sh /snap/cups/1238/scripts/run-cups-browsed
+root        2023    2022  0 23:06 ?        00:00:00 sleep 3600
+cups-br+    2075       1  0 23:06 ?        00:00:00 /usr/sbin/cups-browsed
+root        2076       1  0 23:06 ?        00:00:00 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+mongodb     2078       1  0 23:06 ?        00:00:15 /usr/bin/mongod --config /etc/mongod.conf
+kernoops    2081       1  0 23:06 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops    2084       1  0 23:06 ?        00:00:00 /usr/sbin/kerneloops
+root        2391       1  0 23:06 ?        00:00:00 /usr/sbin/lightdm
+root        2410    2391  3 23:06 tty7     00:01:07 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root        2416       1  0 23:06 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear - linux
+rtkit       2491       1  0 23:06 ?        00:00:00 /usr/libexec/rtkit-daemon
+root        2656       2  0 23:06 ?        00:00:00 [krfcommd]
+root        2682       2  0 23:06 ?        00:00:00 [kworker/1:3]
+root        2686       1  0 23:06 ?        00:00:00 /usr/libexec/upowerd
+root        2704    2391  0 23:06 ?        00:00:00 lightdm --session-child 13 20
+aastik      2796       1  0 23:07 ?        00:00:01 /usr/lib/systemd/systemd --user
+aastik      2797    2796  0 23:07 ?        00:00:00 (sd-pam)
+aastik      2806    2796  0 23:07 ?        00:00:00 /usr/bin/pipewire
+aastik      2807    2796  0 23:07 ?        00:00:00 /usr/bin/pipewire -c filter-chain.conf
+aastik      2810    2796  0 23:07 ?        00:00:00 /usr/bin/wireplumber
+aastik      2811    2796  0 23:07 ?        00:00:00 /usr/bin/pipewire-pulse
+aastik      2812    2796  0 23:07 ?        00:00:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+aastik      2820    2796  0 23:07 ?        00:00:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+aastik      2843    2704  0 23:07 ?        00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+aastik      2881    2796  0 23:07 ?        00:00:00 /usr/libexec/xdg-document-portal
+aastik      2887    2796  0 23:07 ?        00:00:00 /usr/libexec/xdg-permission-store
+root        2901    2881  0 23:07 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+aastik      2971    2796  0 23:07 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+aastik      2978    2971  0 23:07 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+aastik      3007    2796  0 23:07 ?        00:00:00 /usr/libexec/gcr-ssh-agent --base-dir /run/user/1000/gcr
+aastik      3009    2796  0 23:07 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+aastik      3023    2796  0 23:07 ?        00:00:00 /usr/libexec/gvfsd
+aastik      3032    2796  0 23:07 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+aastik      3035    2796  0 23:07 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+aastik      3070    2796  5 23:07 ?        00:01:51 /usr/bin/gnome-shell
+aastik      3126    3070  0 23:07 ?        00:00:00 /usr/libexec/mutter-x11-frames
+aastik      3129    2796  0 23:07 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+aastik      3164    2796  0 23:07 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+aastik      3171    2796  0 23:07 ?        00:00:00 /usr/libexec/evolution-source-registry
+aastik      3179    2796  0 23:07 ?        00:00:00 /usr/libexec/dconf-service
+aastik      3190    2796  0 23:07 ?        00:00:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.Shell.Notifications
+aastik      3217    2796  0 23:07 ?        00:00:00 /usr/libexec/goa-daemon
+aastik      3230    2796  0 23:07 ?        00:00:01 /usr/bin/ibus-daemon --panel disable --xim
+aastik      3231    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+aastik      3233    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-color
+aastik      3237    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-datetime
+aastik      3240    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-housekeeping
+aastik      3241    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-keyboard
+aastik      3243    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-media-keys
+aastik      3244    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-power
+aastik      3254    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-print-notifications
+aastik      3259    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-rfkill
+aastik      3265    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+aastik      3268    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-sharing
+aastik      3270    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-smartcard
+aastik      3273    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-sound
+aastik      3274    2796  0 23:07 ?        00:00:00 /usr/libexec/goa-identity-service
+aastik      3275    3035  0 23:07 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+aastik      3277    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-wacom
+aastik      3291    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-xsettings
+aastik      3293    3035  0 23:07 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+aastik      3307    3035  0 23:07 ?        00:00:00 /usr/bin/touchegg
+aastik      3317    2796  0 23:07 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+aastik      3318    3035  0 23:07 ?        00:00:03 /usr/bin/python3 /usr/bin/variety --profile /home/aastik/.config/variety/
+aastik      3354    3035  0 23:07 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+aastik      3379    2796  0 23:07 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+aastik      3406    3230  0 23:07 ?        00:00:00 /usr/libexec/ibus-dconf
+aastik      3408    3230  0 23:07 ?        00:00:03 /usr/libexec/ibus-extension-gtk3
+aastik      3420    2796  0 23:07 ?        00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+aastik      3425    2796  0 23:07 ?        00:00:00 /usr/libexec/ibus-portal
+aastik      3450    2796  0 23:07 ?        00:00:02 /bin/warp-taskbar
+aastik      3455    2796  0 23:07 ?        00:00:00 /usr/libexec/gsd-printer
+aastik      3495    2796  0 23:07 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+aastik      3518    2796  0 23:07 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+aastik      3520    2796  0 23:07 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+aastik      3531    2796  0 23:07 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+aastik      3542    2796  0 23:07 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+aastik      3576    2796  0 23:07 ?        00:00:00 /usr/libexec/tracker-miner-fs-3
+aastik      3578    2796  0 23:07 ?        00:00:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
+aastik      3598    3230  0 23:07 ?        00:00:00 /usr/libexec/ibus-engine-simple
+aastik      3661    3070  0 23:07 ?        00:00:02 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+aastik      3682    3023  0 23:07 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.24 /org/gtk/gvfs/exec_spaw/0
+aastik      3698    2796  0 23:07 ?        00:00:00 /usr/libexec/gvfsd-metadata
+aastik      3737    2796  0 23:07 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+aastik      3743    2796  0 23:07 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gnome
+aastik      3766    2796  0 23:07 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+aastik      3784    3070  0 23:07 ?        00:00:00 /bin/bash /usr/bin/brave-browser-stable
+aastik      3790    3784  0 23:07 ?        00:00:00 cat
+aastik      3791    3784  0 23:07 ?        00:00:00 cat
+aastik      3792    3784  7 23:07 ?        00:02:16 /opt/brave.com/brave/brave
+aastik      3795    2796  0 23:07 ?        00:00:00 /opt/brave.com/brave/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/aastik/.config/BraveSoftware/Brave-Browser/Crash Reports --metrics-dir=/home/aastik/.config/BraveSoftware/Brave-Browser --url=https://cr.brave.com --annotation=lsb-release=Ubuntu 24.04.1 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=141.1.83.112 --initial-client-fd=5 --shared-client-connection
+aastik      3797    2796  0 23:07 ?        00:00:00 /opt/brave.com/brave/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/aastik/.config/BraveSoftware/Brave-Browser/Crash Reports --url=https://cr.brave.com --annotation=lsb-release=Ubuntu 24.04.1 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=141.1.83.112 --initial-client-fd=4 --shared-client-connection
+aastik      3803    3792  0 23:07 ?        00:00:00 /opt/brave.com/brave/brave --type=zygote --no-zygote-sandbox --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --change-stack-guard-on-fork=enable
+aastik      3804    3792  0 23:07 ?        00:00:00 /opt/brave.com/brave/brave --type=zygote --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --change-stack-guard-on-fork=enable
+aastik      3805    2796  0 23:07 ?        00:00:00 /snap/snapd-desktop-integration/391/usr/bin/user-session-helper /snap/snapd-desktop-integration/391/usr/bin/snapd-desktop-integration
+aastik      3817    3804  0 23:07 ?        00:00:00 /opt/brave.com/brave/brave --type=zygote --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --change-stack-guard-on-fork=enable
+aastik      3902    3803  8 23:07 ?        00:02:52 /opt/brave.com/brave/brave --type=gpu-process --ozone-platform=x11 --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --change-stack-guard-on-fork=enable --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAQAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --metrics-shmem-handle=4,i,15771058685933583885,11391289902840507424,262144 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      3905    3805  0 23:07 ?        00:00:01 /snap/snapd-desktop-integration/391/usr/bin/snapd-desktop-integration
+aastik      3907    3792  2 23:07 ?        00:00:43 /opt/brave.com/brave/brave --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,14596992433312263417,2098644147591533194,524288 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      3925    3817  0 23:07 ?        00:00:00 /opt/brave.com/brave/brave --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,15270888361338776871,14803089490021310210,524288 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      3933    3792  0 23:07 ?        00:00:00 /opt/brave.com/brave/brave --type=utility --utility-sub-type=brave_rewards.mojom.RewardsEngineFactory --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,8264956041644241992,11886070527198629002,524288 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4097    3817  0 23:07 ?        00:00:17 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --extension-process --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=11 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=101519968 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,12214417976476833310,1157337610640251066,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4217    3817  0 23:07 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --extension-process --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=35 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=106225714 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,12116152276406372783,11149493126650309500,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4228    3817  0 23:07 ?        00:00:12 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=32 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=106260343 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,14061488031298790485,11452484414956095341,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4234    3817  0 23:07 ?        00:00:11 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=21 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=106265222 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,13653167872236935408,3468785754333577085,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4265    3817  0 23:07 ?        00:00:12 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=37 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=106329210 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,10633786421016672381,1134318603569208506,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4304    3817  3 23:07 ?        00:00:58 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=38 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=107219029 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,11253980444370895419,1037395283400704004,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4373    3792  0 23:07 ?        00:00:00 /opt/brave.com/brave/brave --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,9666562333605246028,6835010803860420061,524288 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4407    3817  0 23:07 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=46 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=110469034 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,9651871030184927197,6464331407512021902,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4435    3817  0 23:07 ?        00:00:09 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=48 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=112145915 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,4626910106168874715,14122884299926316119,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4444    3817  0 23:07 ?        00:00:01 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=28 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=112220318 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,17869212778655994112,10644496711550546562,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4520    3817  0 23:07 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=34 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=115221707 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,7603009187032782394,1926287322325612762,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4552    3817  0 23:07 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=33 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=115530978 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,2707063287424738356,17122957505664251472,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4574    3817  0 23:07 ?        00:00:03 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=31 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=116270049 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,1707907003241542739,7666008399575462455,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4604    3023  0 23:07 ?        00:00:00 /usr/libexec/gvfsd-network --spawner :1.24 /org/gtk/gvfs/exec_spaw/1
+aastik      4612    3023  0 23:07 ?        00:00:00 /usr/libexec/gvfsd-dnssd --spawner :1.24 /org/gtk/gvfs/exec_spaw/2
+aastik      4681    3817  0 23:08 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=18 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=117780048 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,11444202369748514615,4607558798508844181,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4693    3817  0 23:08 ?        00:00:04 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=29 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=118002219 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,2754949300254767836,1498956124854577295,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4746    3817  0 23:08 ?        00:00:01 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=19 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=119529301 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,14777123332169780890,7184809732803174282,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4755    3817  0 23:08 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=20 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=119858536 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,15271399435445548860,7781455160761446337,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4764    3817  7 23:08 ?        00:02:28 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --extension-process --init-isolate-as-foreground --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=50 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=119894044 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,2522940814739470482,1923710379334518291,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4777    3817  0 23:08 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --pdf-renderer --ozone-platform=x11 --lang=en-US --js-flags=--jitless --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=51 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=120022833 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,1924256321994691911,17983398359372000062,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4798    3817  0 23:08 ?        00:00:03 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=22 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=121907036 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,1958816142391503917,6847457380589242852,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4807    3817  0 23:08 ?        00:00:04 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=23 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=122001259 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,8597983417687546734,9662550172790244493,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4816    3817  2 23:08 ?        00:00:49 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=24 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=122661276 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,8185926335081029056,1770142985593553849,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4855    3817  0 23:08 ?        00:00:02 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=27 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=125187759 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,6370324951334320785,9312688553958803978,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4875    3817  0 23:08 ?        00:00:10 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=25 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=125952089 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,6716596142849548774,11403404518381119678,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4884    3817  0 23:08 ?        00:00:01 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=52 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=126004308 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,15240878309337786949,7696408044165653350,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4893    3817  0 23:08 ?        00:00:01 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=126116297 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,13563527795739366778,5976099557644752325,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      4930    3817  0 23:08 ?        00:00:01 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=53 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=131977899 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,15828378834557833979,3328024178109949108,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      5023    3035  0 23:08 ?        00:00:00 /usr/bin/update-notifier
+root        5592       2  0 23:11 ?        00:00:00 [kworker/9:2-cgroup_free]
+aastik      5831    3817  3 23:13 ?        00:00:59 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=74 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=420009412 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,18179505917806086207,9802012793332838402,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+root        6171       2  0 23:13 ?        00:00:00 [psimon]
+root        6344       2  0 23:15 ?        00:00:00 [kworker/u49:9-ttm]
+root        6708       2  0 23:20 ?        00:00:00 [kworker/0:0-events_freezable]
+root        6978       2  0 23:24 ?        00:00:00 [kworker/11:0-cgroup_free]
+root        7013       2  0 23:24 ?        00:00:00 [kworker/8:0-events]
+aastik      7015    2796  0 23:24 ?        00:00:05 /usr/bin/nautilus --gapplication-service
+aastik      7019    2796  0 23:24 ?        00:00:00 /usr/bin/gnome-calendar --gapplication-service
+aastik      7200    3023  0 23:24 ?        00:00:00 /usr/libexec/gvfsd-recent --spawner :1.24 /org/gtk/gvfs/exec_spaw/41
+root        7236       2  0 23:25 ?        00:00:00 [kworker/u49:6-ttm]
+root        7237       2  0 23:25 ?        00:00:00 [kworker/u49:10-ttm]
+root        7238       2  0 23:25 ?        00:00:00 [kworker/u49:11-ttm]
+aastik      7389    2796  1 23:25 ?        00:00:12 /snap/code/261/usr/share/code/code --no-sandbox --force-user-env --ozone-platform=x11 /home/aastik/Code/devops
+aastik      7391    7389  0 23:25 ?        00:00:00 /snap/code/261/usr/share/code/code --type=zygote --no-zygote-sandbox --no-sandbox
+aastik      7392    7389  0 23:25 ?        00:00:00 /snap/code/261/usr/share/code/code --type=zygote --no-sandbox
+aastik      7405    2796  0 23:25 ?        00:00:00 /snap/code/261/usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/aastik/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=85bc4bd1-af42-48a1-8fec-1cac80dc795c&iid=85bc4bd1-af42-48a1-8fec-1cac80dc795c&sid=85bc4bd1-af42-48a1-8fec-1cac80dc795c --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.136.1 --annotation=lsb-release=Ubuntu 24.04.1 LTS --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=42.10.0 --initial-client-fd=43 --shared-client-connection
+aastik      7422    7389  0 23:25 ?        00:00:01 /snap/code/261/usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=7405 --enable-crash-reporter=8dd4936c-28c9-4aae-af6f-e4aee2b8a15c,no_channel --user-data-dir=/home/aastik/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17882464861198801848,14376447086515882090,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,8695417233579948855,6390186677388806625,4 --trace-process-track-uuid=3190708989122997041
+aastik      7495    7392 17 23:25 ?        00:02:31 /snap/code/261/usr/share/code/code --type=renderer --crashpad-handler-pid=7405 --enable-crash-reporter=8dd4936c-28c9-4aae-af6f-e4aee2b8a15c,no_channel --user-data-dir=/home/aastik/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/snap/code/261/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --no-sandbox --max-active-webgl-contexts=32 --ozone-platform=x11 --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=1165601076 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17882464861198801848,14376447086515882090,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,8695417233579948855,6390186677388806625,4 --trace-process-track-uuid=3190708990997080739 --vscode-window-config=vscode:1b656c3d-d2ce-4a6c-8e27-c0f8d794426e
+aastik      7627    7389  7 23:25 ?        00:01:05 /snap/code/261/usr/share/code/code --type=gpu-process --disable-gpu-sandbox --no-sandbox --ozone-platform=x11 --crashpad-handler-pid=7405 --enable-crash-reporter=8dd4936c-28c9-4aae-af6f-e4aee2b8a15c,no_channel --user-data-dir=/home/aastik/.config/Code --gpu-preferences=UAAAAAAAAAAgAQAEAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAQAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --use-gl=disabled --shared-files --field-trial-handle=3,i,17882464861198801848,14376447086515882090,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,8695417233579948855,6390186677388806625,4 --trace-process-track-uuid=3190708992871164437
+aastik      7902    7389  0 23:25 ?        00:00:01 /snap/code/261/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=7405 --enable-crash-reporter=8dd4936c-28c9-4aae-af6f-e4aee2b8a15c,no_channel --user-data-dir=/home/aastik/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17882464861198801848,14376447086515882090,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,8695417233579948855,6390186677388806625,4 --trace-process-track-uuid=3190708993808206286
+aastik      7936    7389  0 23:25 ?        00:00:00 dconf watch /system/proxy/
+aastik      7945    7389  2 23:25 ?        00:00:19 /snap/code/261/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=7405 --enable-crash-reporter=8dd4936c-28c9-4aae-af6f-e4aee2b8a15c,no_channel --user-data-dir=/home/aastik/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17882464861198801848,14376447086515882090,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,8695417233579948855,6390186677388806625,4 --trace-process-track-uuid=3190708994745248135
+aastik      7946    7389  0 23:25 ?        00:00:01 /snap/code/261/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=7405 --enable-crash-reporter=8dd4936c-28c9-4aae-af6f-e4aee2b8a15c,no_channel --user-data-dir=/home/aastik/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17882464861198801848,14376447086515882090,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,8695417233579948855,6390186677388806625,4 --trace-process-track-uuid=3190708995682289984
+aastik      7987    7389  4 23:25 ?        00:00:34 /snap/code/261/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --crashpad-handler-pid=7405 --enable-crash-reporter=8dd4936c-28c9-4aae-af6f-e4aee2b8a15c,no_channel --user-data-dir=/home/aastik/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17882464861198801848,14376447086515882090,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,8695417233579948855,6390186677388806625,4 --trace-process-track-uuid=3190708996619331833
+aastik      8374    7902  0 23:25 ?        00:00:02 /snap/code/261/usr/share/code/code /snap/code/261/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js --headless --no-auto-update --log-level info --stdio --no-auto-login
+aastik      8489    7987  0 23:25 ?        00:00:00 /snap/code/261/usr/share/code/code /home/aastik/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/packages/server/dist/serverMain.js --node-ipc --clientProcessId=7987
+aastik      8582    7987  0 23:25 ?        00:00:00 /snap/code/261/usr/share/code/code /snap/code/261/usr/share/code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=7987
+aastik      8814    3817  3 23:26 ?        00:00:30 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=101 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=1200007735 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,1615087190757825352,15639655958762211384,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik      8823    7389  0 23:26 ?        00:00:04 /snap/code/261/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=7405 --enable-crash-reporter=8dd4936c-28c9-4aae-af6f-e4aee2b8a15c,no_channel --user-data-dir=/home/aastik/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,17882464861198801848,14376447086515882090,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,8695417233579948855,6390186677388806625,4 --trace-process-track-uuid=3190708998493415531
+aastik      8843    8823  0 23:26 pts/0    00:00:00 /usr/bin/bash --init-file /snap/code/261/usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+aastik      9470    7987  0 23:26 ?        00:00:00 /snap/code/261/usr/share/code/code /snap/code/261/usr/share/code/resources/app/extensions/markdown-language-features/dist/serverWorkerMain --node-ipc --clientProcessId=7987
+aastik      9598    3817  0 23:26 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=104 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=1241358616 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,2340228767706927544,14753458173567647552,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+root       11393       2  0 23:30 ?        00:00:00 [kworker/2:1-mm_percpu_wq]
+aastik     11695    8823  0 23:30 pts/1    00:00:00 /usr/bin/bash --init-file /snap/code/261/usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+root       14145       2  0 23:34 ?        00:00:00 [kworker/u49:0-ttm]
+root       14146       2  0 23:34 ?        00:00:00 [kworker/u49:1-ttm]
+root       14147       2  0 23:34 ?        00:00:00 [kworker/u49:2-rtw89_tx_wq]
+root       14148       2  0 23:34 ?        00:00:00 [kworker/u49:3-ttm]
+root       14149       2  0 23:34 ?        00:00:00 [kworker/u49:4-ttm]
+root       14150       2  0 23:34 ?        00:00:00 [kworker/u49:5-ttm]
+aastik     14678    2796  0 23:35 ?        00:00:01 /usr/libexec/gnome-terminal-server
+aastik     14690   14678  0 23:35 pts/2    00:00:00 bash
+root       15104       2  0 23:35 ?        00:00:00 [kworker/u49:7-ttm]
+root       15105       2  0 23:35 ?        00:00:00 [kworker/u49:8-ttm]
+root       15106       2  0 23:35 ?        00:00:00 [kworker/u49:12-ttm]
+root       15107       2  0 23:35 ?        00:00:00 [kworker/u49:13-ttm]
+root       15108       2  0 23:35 ?        00:00:00 [kworker/u49:14]
+root       15109       2  0 23:35 ?        00:00:00 [kworker/u49:15]
+aastik     16113    3817  0 23:38 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=126 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=1920004741 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,13181052338125282332,11950620047691053478,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik     16484    3817  0 23:38 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=127 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=1972028371 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,1371921850817899735,8703352381050417760,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+root       16642       2  0 23:39 ?        00:00:00 [kworker/4:0-events]
+aastik     16702   14690  0 23:39 pts/2    00:00:00 /bin/bash ./task.sh
+root       16718       2  0 23:39 ?        00:00:00 [kworker/8:2]
+root       16730       2  0 23:39 ?        00:00:00 [kworker/2:0]
+aastik     16818    3817  0 23:39 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --extension-process --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=128 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=2017090014 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,7454081816351980514,9978010382920490333,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik     16819    3817  0 23:39 ?        00:00:00 /opt/brave.com/brave/brave --type=renderer --crashpad-handler-pid=3795 --enable-crash-reporter=cdc3e6be-d9c3-41fd-8774-e2e447db0d23, --extension-process --enable-distillability-service --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --ozone-platform=x11 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=129 --time-ticks-at-unix-epoch=-1788543363828025 --launch-time-ticks=2017093547 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,6485307921551676396,13936050978093053866,2097152 --field-trial-handle=3,i,13685708463087730070,18273792072575631349,262144 --variations-seed-version=main@c5eff80db0bd71a4fbed0555a903ff4d62ca075e
+aastik     16886   16702 99 23:39 pts/2    00:00:00 ps -ef
