@@ -1,0 +1,7 @@
+![Screenshot from 2026-09-11 15-18-06](Screenshot%20from%202026-09-11%2015-18-06.png)
+![Screenshot from 2026-09-11 15-20-25](Screenshot%20from%202026-09-11%2015-20-25.png)
+![Screenshot from 2026-09-11 15-23-06](Screenshot%20from%202026-09-11%2015-23-06.png)
+![Screenshot from 2026-09-11 15-24-13](Screenshot%20from%202026-09-11%2015-24-13.png)
+![Screenshot from 2026-09-11 15-24-28](Screenshot%20from%202026-09-11%2015-24-28.png)
+![Screenshot from 2026-09-11 15-24-52](Screenshot%20from%202026-09-11%2015-24-52.png)
+![Screenshot from 2026-09-11 15-26-08](Screenshot%20from%202026-09-11%2015-26-08.png)
